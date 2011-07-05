@@ -5,9 +5,9 @@
 
 = Details =
 
-   * *Funtion Spec* 
-   * *Design Spec
-   * *Schedule*
-   * *Codeline Structure/database sync plan*
-   * *internal release/QA item*
-   *_Discuss items_
+   *  *Funtion Spec* 
+   *  *Design Spec
+   *  *Schedule*
+   *  *Codeline Structure/database sync plan*
+   *  *internal release/QA item*
+   *  _Discuss items_
