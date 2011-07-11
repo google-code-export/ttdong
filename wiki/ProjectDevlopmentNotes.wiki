@@ -1,4 +1,6 @@
-=　Project devlopment notes =
+#sidebar Project Development Notes
+
+=　Project development notes =
 
 #1 hospital eye department website project development items
 
