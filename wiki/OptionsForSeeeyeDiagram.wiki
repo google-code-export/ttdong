@@ -1,3 +1,4 @@
+#labels someoptionsforseeeyeerdigram
 一些个人意见，仅供参考：
 1): 如果一个user login  之后，从目前的er 图中， 我们没办法知道该用户是一个doctor, patient or admin user. 当然，等回到作class diagram 的时候，或者就能知道了。
 提出这个问题，就作为一个reminder 吧。
