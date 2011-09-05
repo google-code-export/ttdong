@@ -30,3 +30,5 @@ Status>>
 1. lack 验证码
 
 2. root -> 权限管理->编辑 not working
+
+3. register doctor->register name1 with fail message->after correction, issue with telling name1 already existing(but, it never register successfully ever)
