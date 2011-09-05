@@ -28,3 +28,5 @@ Status>>
 = 05/09/2011 John=
 
 1. lack 验证码
+
+2. root -> 权限管理->编辑 not working
