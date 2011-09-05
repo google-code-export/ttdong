@@ -2,8 +2,8 @@
 
 = 05/09/2011 Spark=
 
-* 1）	注册页面(screenshot refer to buglist attachement)
-#问题1。 每个字段都有Validator吗？
+1）	注册页面(screenshot refer to buglist attachement)</br>
+问题1。 每个字段都有Validator吗？
 \n 下面是一些具体问题：
 
 \n 生日：现在没有校验，最好是用3个字段， 年，月，日
