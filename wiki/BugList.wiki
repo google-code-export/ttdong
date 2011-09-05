@@ -1,7 +1,8 @@
+# test function guideline: http://221.137.74.189/
 
 = 05/09/2011 Spark=
 
- 1）	注册页面(screenshot refer to buglist attachement)
+1）	注册页面(screenshot refer to buglist attachement)
 问题1。 每个字段都有Validator吗？
 下面是一些具体问题：
 
@@ -11,6 +12,6 @@ John>>agree
 省份：用一个Combo选取？
 城市：用一个Combo选取？并且根据
 
+Status>>
+
 2）	后台管理界面
-
-
