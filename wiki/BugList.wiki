@@ -1,4 +1,4 @@
-# test function guideline: http://221.137.74.189/
+# Summary test function guideline: http://221.137.74.189/
 
 = 05/09/2011 Spark=
 
