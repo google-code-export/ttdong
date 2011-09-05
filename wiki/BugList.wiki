@@ -32,3 +32,5 @@ Status>>
 2. root -> 权限管理->编辑 not working
 
 3. register doctor->register name1 with fail message->after correction, issue with telling name1 already existing(but, it never register successfully ever)
+
+4. register doctor->title change to 医生管理 and miss properties: 专家照片、导师类别（暂不是导师、硕士研究生导师、博士研究生导师）、被评为导师的院校（可以是多个院校）
