@@ -1,6 +1,6 @@
 #summary Bug list
 
-= 05/09/2011 Spark=
+= 04/09/2011 Spark=
 
 1）	注册页面(screenshot refer to buglist attachement)
 
@@ -24,3 +24,7 @@ John>>yes. It can do auto calculation
 Status>>
 
 2）	后台管理界面
+
+= 05/09/2011 John=
+
+1. lack 验证码
