@@ -35,4 +35,4 @@ Status>>
 
 4. root ->register doctor->title change to 医生管理 and miss properties: 专家照片、导师类别（暂不是导师、硕士研究生导师、博士研究生导师）、被评为导师的院校（可以是多个院校）, 获得该最高职称的年月,简介,备注
 
-5. root ->医生管理->deleting not functional
+5. root ->医生管理->deleting doctor not functional
