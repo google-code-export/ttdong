@@ -1,5 +1,6 @@
 如果要手工build
 http://221.137.74.189:8080/dashboard/tab/builds
-然后点击seeeye的forcebuild（见附件图）
+然后点击seeeye的forcebuild（见下图）
+[http://ttdong.googlecode.com/files/ForceBuild.jpg]
 build的结果在
 http://221.137.74.189:8080/builds/
