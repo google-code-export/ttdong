@@ -47,7 +47,6 @@ ADD: 29th floor, LJZ PLAZA, 1600 Century avenue, Pudong, Shanghai, China
 TEL: 86-21-58779699　 86-21-61871299
 FAX: 86-21-58779099
 
-个人推荐支付宝：因为初期业务量不大，相对来说支付宝集成比较容易。
 <BR>
 4.架构
 因为支付的方法都差不多。
@@ -66,4 +65,9 @@ FAX: 86-21-58779099
 下面是支付宝API的example code:
 
 http://club.alipay.com/read.php?tid=9976972
+
 选择“支付宝即时到账收款接口 ”
+
+
+
+推荐支付宝：因为初期业务量不大，相对来说支付宝集成比较容易。
