@@ -1,0 +1,38 @@
+#summary comments in weekly meeting
+
+= September =
+
+== 09/13 ==
+ # 医生编辑/注册不选照片不work
+ # P2. 忘记密码支持email取回 P2. 支持手机取回，同时保证唯一性
+ # P2. 支持对医生的权限管理
+ # P2. 验证码更新在IE7下面不工作
+ # 行政岗位、专家级别、导师类别（暂不是导师）optional
+ # 多导师设置(for GUI)
+ # 增加信息宣传管理权限
+ # P2. 增加排班权限到医生管理
+ # 加宽专业特长
+ # 最高学历下限为大专
+
+== 09/05 ==
+ # add role management in admin edit page
+ # add year/month/day sub select box
+ # calc age based on birthday
+ # update edit page to use Date widget
+ # add admin facade page
+ # add cancel link on patient reg page
+ # unable to delete new reg doctors
+ # multiple mentor support
+ # 专家级别：特需专家，普通专家
+ # 参加工作年月
+
+= August =
+
+== 08/12 ==
+ # 增加default settings of notification, etc.
+
+== 08/05 ==
+ # add address for doctor
+ # add new type of user: 实习生/研究生
+ # View first for customer review
+ # do style integration at the end of each drop
