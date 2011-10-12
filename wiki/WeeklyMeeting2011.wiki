@@ -1,5 +1,14 @@
 #summary comments in weekly meeting
 
+= October=
+
+== 10/11 ==
+ # (P1) 门诊预约添加location信息
+ # 集成医院信息
+ # 隔天自动更新预约状态为完成
+ # 医生列表改为table style
+ # (P1) 门诊管理增加打印功能
+
 = September =
 
 == 09/28 ==
