@@ -1,6 +1,22 @@
-如果要手工build
+ 2 build task
+
+1) One is the 'seeeye-drop' 'for the customer or QA tests,and the web application is deployed into following URL:
+ 
+http://221.137.74.189
+ 
+ 
+ This buildis trigged manually insteadof daily. By default it will run every 100days.
+ 
+2) Another is 'seeeye-nightly' for the nightly build and the web application is deployed into following URL:
+ 
+http://221.137.74.189/dailybuild/
+ 
+ This build is trigged daily 0:00AM.
+
+
+
+If you want to force build, just go to 
 http://221.137.74.189:8080/dashboard/tab/builds
-然后点击seeeye的forcebuild（见下图）
-[http://ttdong.googlecode.com/files/ForceBuild.jpg]
-build的结果在
-http://221.137.74.189:8080/builds/
+
+and choose one task, for example 'seeeye-nightly", and click the force build button.
+See following picutures 
