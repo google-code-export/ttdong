@@ -20,3 +20,4 @@ http://221.137.74.189:8080/dashboard/tab/builds
 
 and choose one task, for example 'seeeye-nightly", and click the force build button.
 See following picutures 
+[http://ttdong.googlecode.com/files/ForceBuild.jpg]
