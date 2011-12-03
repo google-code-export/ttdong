@@ -1,10 +1,9 @@
-#summary Drop1 test function guideline: http://221.137.74.189/
+#summary Drop1 test function guideline: http://seeeye.ttdong.com.cn
 
 
 = 1. Demo URL =
 
-http://221.137.74.189/
-
+http://seeeye.ttdong.com.cn
 
 = 2. 用户说明 =
 
