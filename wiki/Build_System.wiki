@@ -2,22 +2,21 @@
 
 1) One is the 'seeeye-drop' 'for the customer or QA tests,and the web application is deployed into following URL:
  
-http://221.137.74.189
- 
+http://seeeye.ttdong.com.cn 
  
  This buildis trigged manually insteadof daily. By default it will run every 100days.
  
 2) Another is 'seeeye-nightly' for the nightly build and the web application is deployed into following URL:
  
-http://221.137.74.189/dailybuild/
+http://ehealth.ttdong.com.cn
  
  This build is trigged daily 0:00AM.
 
 
 
 If you want to force build, just go to 
-http://221.137.74.189:8080/dashboard/tab/builds
+http://build.jehui.com:8080/dashboard/tab/builds
 
-and choose one task, for example 'seeeye-nightly", and click the force build button.
+and choose one task, for example 'seeeye-nightly", and click the force build icon.
 See following picutures 
 [http://ttdong.googlecode.com/files/ForceBuild.jpg]
