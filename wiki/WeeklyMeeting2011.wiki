@@ -1,5 +1,11 @@
 #summary comments in weekly meeting
 
+= December =
+
+== 12/06 ==
+ # P1.预约时间少一半
+ # 参照天天动的dialog
+
 = November =
 
 == 11/30 ==
