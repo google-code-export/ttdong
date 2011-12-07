@@ -1,16 +1,16 @@
- 2 build task
+ 2 build tasks
 
 1) One is the 'seeeye-drop' 'for the customer or QA tests,and the web application is deployed into following URL:
  
 http://seeeye.ttdong.com.cn 
  
- This buildis trigged manually insteadof daily. By default it will run every 100days.
+ This build is trigged manually insteadof daily. By default it will run every 100days.
  
 2) Another is 'seeeye-nightly' for the nightly build and the web application is deployed into following URL:
  
 http://ehealth.ttdong.com.cn
  
- This build is trigged daily 0:00AM.
+ This build is trigged daily at 0:00AM.
 
 
 
