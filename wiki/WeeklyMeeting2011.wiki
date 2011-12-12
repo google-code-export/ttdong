@@ -2,6 +2,12 @@
 
 = December =
 
+== 12/12 ==
+ # P2. 支付宝
+ # P2. 集成短信
+ # 集成剩下两个分页面（医生管理，订单管理）
+ # Update往期meeting minutes
+
 == 12/06 ==
  # P1.预约时间少一半
  # 参照天天动的dialog
@@ -15,87 +21,87 @@
  # 增加联系电话字段
 
 == 11/15 ==
- # 期望时间增加“其他”选项
+ # [Done] 期望时间增加“其他”选项
  # 线下支付备注预约订单号
- # 通话时间->约定时间
- # 查看窗口增加备注和附件
- # 合并门诊预约、电话咨询到我的预约
+ # [Done] 通话时间->约定时间
+ # [Done] 查看窗口增加备注和附件
+ # [Dump] 合并门诊预约、电话咨询到我的预约
  # 我的预约增加状态tab
 
 == 11/01 ==
- # 主菜单扩充，左对齐
- # P1. 静态页面生成 doc->html
- # Form标签左对齐
- # P1. 重点美化首页和Login
+ # [Done] 主菜单扩充，左对齐
+ # [Done] P1. 静态页面生成 doc->html
+ # [Done] Form标签左对齐
+ # [Done] P1. 重点美化首页和Login
  # P2. 门诊排班权限改为医生管理
  # P2. 门诊价格根据门诊类别变化，【普通，专家，特需】
  # P2. 医生浏览门诊安排
  # P2. 门诊管理员更新预约状态为爽约
- # 用户取消门诊预约后popup不消失
+ # [Dump] 用户取消门诊预约后popup不消失
 
 = October=
 
 == 10/18 ==
  # 黑名单->P2
- # (P1) 内容整合+Style整合
- # (P1) 继续完成搜索和分页
+ # [Done] (P1) 内容整合+Style整合
+ # [Done] (P1) 继续完成搜索和分页
  # 针对每个医生增加个人页面，增加预约入口
- # 在预约设定页面显示停诊信息，(P1)增加取消停诊功能
- # (P1) 预约名额释放，在用户取消预约后
+ # [Done] 在预约设定页面显示停诊信息，(P1)增加取消停诊功能
+ # [Done] (P1) 预约名额释放，在用户取消预约后
  # 短信系统集成
- # 管理员预约清单打印
+ # [Done] 管理员预约清单打印
 
 == 10/11 ==
- # (P1) 门诊预约添加location信息
- # 集成医院信息
+ # [Done] (P1) 门诊预约添加location信息
+ # [Done] 集成医院信息
  # 隔天自动更新预约状态为完成
- # 医生列表改为table style
- # (P1) 门诊管理增加打印功能
+ # [Done] 医生列表改为table style
+ # [Done] (P1) 门诊管理增加打印功能
 
 = September =
 
 == 09/28 ==
- # 预约状态更新：成功，结束，取消->病人，医生
- # 预约单号扩展至10位，yymmdd####
- # 广告栏在管理页面隐藏
- # 页头背景加深
+ # [Done] 预约状态更新：成功，结束，取消->病人，医生
+ # [Done] 预约单号扩展至10位，yymmdd####
+ # [Done] 广告栏在管理页面隐藏
+ # [Delegate] 页头背景加深
 
 == 09/19 ==
  # 停诊需要添加comment,operator
- # 去掉暂停按钮（单条预约设置）
- # 参照医联网（好大夫）设计预约流程
+ # [Done] 去掉暂停按钮（单条预约设置）
+ # [Done] 参照医联网（好大夫）设计预约流程
 
 == 09/13 ==
- # 医生编辑/注册不选照片不work
- # P2. 忘记密码支持email取回 P2. 支持手机取回，同时保证唯一性
+ # [Done] 医生编辑/注册不选照片不work
+ # [Done] P2. 忘记密码支持email取回 P2. 支持手机取回，同时保证唯一性
  # P2. 支持对医生的权限管理
- # P2. 验证码更新在IE7下面不工作
- # 行政岗位、专家级别、导师类别（暂不是导师）optional
- # 多导师设置(for GUI)
- # 增加信息宣传管理权限
+ # [Done] P2. 验证码更新在IE7下面不工作
+ # [Done] 行政岗位、专家级别、导师类别（暂不是导师）optional
+ # [Done] 多导师设置(for GUI)
+ # [Done] 增加信息宣传管理权限
  # P2. 增加排班权限到医生管理
- # 加宽专业特长
- # 最高学历下限为大专
+ # [Done] 加宽专业特长
+ # [Done] 最高学历下限为大专
 
 == 09/05 ==
- # add role management in admin edit page
- # add year/month/day sub select box
- # calc age based on birthday
- # update edit page to use Date widget
+ # [Done] add role management in admin edit page
+ # [Done] add year/month/day sub select box
+ # [Done] calc age based on birthday
+ # [Done] update edit page to use Date widget
  # add admin facade page
- # add cancel link on patient reg page
- # unable to delete new reg doctors
- # multiple mentor support
- # 专家级别：特需专家，普通专家
- # 参加工作年月
+ # [Done] add cancel link on patient reg page
+ # [Done] unable to delete new reg doctors
+ # [Done] multiple mentor support
+ # [Done] 专家级别：特需专家，普通专家
+ # [Done] 参加工作年月
 
 = August =
 
 == 08/12 ==
- # 增加default settings of notification, etc.
+ # [Done] 增加default settings of notification, etc.
 
 == 08/05 ==
- # add address for doctor
- # add new type of user: 实习生/研究生
- # View first for customer review
- # do style integration at the end of each drop
+ # [Done] add address for doctor
+ # [Done] add new type of user: 实习生/研究生
+ # [Done] View first for customer review
+ # [Done] do style integration at the end of each drop
