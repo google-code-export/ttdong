@@ -1,9 +1,4 @@
 #summary comments in weekly meeting
-= 2012=
-
-== 01/03 ==
- # P1. 电话咨询wizard应包含付费步骤.
- # P1. 完成门诊预约和电话咨询功能和美工整合.
 
 = December =
 
