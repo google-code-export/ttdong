@@ -16,11 +16,11 @@
 == January ==
 
 = 01/16 =
- # status bar根据状态显示
- # 查看、编辑分开
- # 按钮风格
- # 取消dialog分两行
- # 增加稍后支付
+ # Done - status bar根据状态显示
+ # Done - 查看、编辑分开
+ # Done - 按钮风格
+ # Done - 取消dialog分两行
+ # Done - 增加稍后支付
 
 = 01/10 =
  # Done - 调整wizard内容区的间距
@@ -28,7 +28,7 @@
  # Done - 门诊预约设定整合成一个page
  # Done - P1. 添加关键信息到dialog title
  # Done - 设置dialog的min,max size
- # 增加wizard bar到dialog
+ # Done - 增加wizard bar到dialog
  # Done - P1. Wizard优先做
  # Done - 统一font size
 
