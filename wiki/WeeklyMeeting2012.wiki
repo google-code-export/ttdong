@@ -1,6 +1,11 @@
 #summary comments in weekly meeting
 
 == February ==
+= 02/06 =
+ # 通知消息内容调整
+ # 主页格式修复
+ # 门诊、电话咨询服务条款
+ # 打包war文件
 
 = 02/01 =
  # Done - 整合新页面
