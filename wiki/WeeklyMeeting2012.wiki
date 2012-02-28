@@ -1,6 +1,16 @@
 #summary comments in weekly meeting
 
 == February ==
+= 02/28 =
+ # 针对排班表增加新页面
+ # IE indexOf不工作
+ # 从模板创建
+ # 病区，特殊合并为普通
+ # 除了employeeid，增加职称
+ # 关闭咨询设置
+ # 过滤失效的停诊信息
+ # 链接"我要停诊"
+
 = 02/06 =
  # 通知消息内容调整
  # 主页格式修复
