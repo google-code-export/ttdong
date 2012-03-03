@@ -1,6 +1,13 @@
 #summary comments in weekly meeting
 
 == February ==
+= 03/03 =
+ # simpleAll default 今年
+ # 年月改label
+ # 允许多个夜值，日值
+ # P2. 打印页面调成黑白
+ # 医生列表、详情隐藏隐藏咨询、预约等按钮
+
 = 02/28 =
  # Done - 针对排班表增加新页面
  # Done - IE indexOf不工作
