@@ -2,16 +2,16 @@
 
 == February ==
 = 03/03 =
- # simpleAll default 今年
- # 年月改label
- # 允许多个夜值，日值
- # P2. 打印页面调成黑白
- # 医生列表、详情隐藏隐藏咨询、预约等按钮
+ # Done - simpleAll default 今年
+ # Done - 年月改label
+ # Done - 允许多个夜值，日值
+ # Done - P2. 打印页面调成黑白
+ # Done - 医生列表、详情隐藏隐藏咨询、预约等按钮
 
 = 02/28 =
  # Done - 针对排班表增加新页面
  # Done - IE indexOf不工作
- # 从模板创建
+ # Done - 从模板创建
  # Done - 病区，特殊合并为普通
  # Done - 除了employeeid，增加职称
  # Done - 关闭咨询设置
