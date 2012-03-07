@@ -1,6 +1,16 @@
 #summary comments in weekly meeting
 
 == February ==
+= 03/05 =
+ # Done - 排班表加头，添加描述
+ # Done - 工作组第2列左对齐
+ # Done - 侧边栏去掉导医服务
+ # P2. 排班信息跳到管理页面
+ # 眼科专家风采滚动副主任医生
+ # Done - 右侧广告栏第一个添加链接到医生列表
+ # Done - 权限管理分两行
+ # Done - 黑名单无法删除
+
 = 03/03 =
  # Done - simpleAll default 今年
  # Done - 年月改label
