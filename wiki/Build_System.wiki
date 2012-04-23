@@ -21,4 +21,4 @@ and choose one task, for example 'seeeye-nightly", and click the force build ico
 See following picutures 
 [http://ttdong.googlecode.com/files/ForceBuild.jpg]
 
-2) build archive files location: http://build.jehui.com:8080/builds
+3) build archive files location: http://build.jehui.com:8080/builds
