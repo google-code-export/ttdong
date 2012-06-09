@@ -1,6 +1,45 @@
 #summary comments in weekly meeting
 
-== February ==
+== June ==
+
+= 06/07 =
+
+ # Done - 学生列表公开， 详情 -》login
+ # Done - login 页面 字体不统一
+ # Done - 主任排序，copyright 更新
+ # Done - 提交成功贴边
+ # Done - 医生照片
+ # 更新首页照片，搜索按钮
+
+【排序依据】
+1.职称：.主任医师、副主任医师，主任医师排在副主任医师前
+2.挂号费：依据挂号费的高低，挂号费高的排序靠前
+3.在此职称上的年龄：年龄越久越靠前；
+4.年龄：年龄越大越靠前。
+
+= 06/04 =
+
+ # Done - hospital logo
+ # Done - search engine-Andy
+ # Done - 查询对齐，黑色
+ # Done - 标签字体大一点，换行
+ # Done - 科普：图片，左上。
+ # Done - remove test doctors
+ # Done - 文章太撑
+
+== May ==
+
+= 05/22 =
+
+ # Done - 隐藏无内容链接
+
+眼科简介->上海市眼科研究所
+门急诊->门急诊简介，急诊，国际医疗特诊
+教学管理->进修医师，招生信息
+科研管理->实验室介绍
+
+== March ==
+
 = 03/10 =
  # Done - 重大新闻duplicate
  # Done - 搜索引擎背景
@@ -30,6 +69,8 @@
  # Done - 允许多个夜值，日值
  # Done - P2. 打印页面调成黑白
  # Done - 医生列表、详情隐藏隐藏咨询、预约等按钮
+
+== Feburary ==
 
 = 02/28 =
  # Done - 针对排班表增加新页面
