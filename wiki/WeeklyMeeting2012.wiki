@@ -2,6 +2,14 @@
 
 == June ==
 
+= 06/20 =
+ # encrypt pswd
+ # 我是患者
+ # 医生列表:门诊时间->预约门诊时间
+ # forget pwd issue(no right page pop up after input verification info)
+ # clean up 停症信息
+ # 科研项目和成果界面调整
+
 = 06/07 =
 
  # Done - 学生列表公开， 详情 -》login
@@ -9,7 +17,7 @@
  # Done - 主任排序，copyright 更新
  # Done - 提交成功贴边
  # Done - 医生照片
- # 更新首页照片，搜索按钮
+ # Done - 更新首页照片，搜索按钮
 
 【排序依据】
 1.职称：.主任医师、副主任医师，主任医师排在副主任医师前
