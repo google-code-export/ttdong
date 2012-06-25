@@ -2,6 +2,12 @@
 
 == June ==
 
+= 06/25 =
+ # P2. encrypt sensitive/credential data
+ # 忘记密码消息添加邮箱后缀
+ # 集成各种排班规则
+ # 切换至MySQL数据库
+
 = 06/20 =
  # Done - encrypt pswd
  # Done - 我是患者
