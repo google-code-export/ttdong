@@ -3,12 +3,12 @@
 == June ==
 
 = 06/20 =
- # encrypt pswd
- # 我是患者
- # 医生列表:门诊时间->预约门诊时间
- # forget pwd issue(no right page pop up after input verification info)
- # clean up 停症信息
- # 科研项目和成果界面调整
+ # Done - encrypt pswd
+ # Done - 我是患者
+ # Done - 医生列表:门诊时间->预约门诊时间
+ # Done - forget pwd issue(no right page pop up after input verification info)
+ # Done - clean up 停症信息
+ # Done - 科研项目和成果界面调整
 
 = 06/07 =
 
