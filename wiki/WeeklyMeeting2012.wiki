@@ -1,10 +1,16 @@
 #summary comments in weekly meeting
 
+== July ==
+
+= 07/10 =
+ # 起草网站维护合同
+ # 网站架构设计2.0 (移动化支持，天天动深度集成，独立短信/邮件收发模块)
+
 == June ==
 
 = 06/25 =
  # P2. encrypt sensitive/credential data
- # 忘记密码消息添加邮箱后缀
+ # Done - 忘记密码消息添加邮箱后缀
  # 集成各种排班规则
  # 切换至MySQL数据库
 
