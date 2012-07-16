@@ -5,7 +5,7 @@
 = 07/10 =
  # 起草网站维护合同
  # add one more root account
- # 电话预约确认页面调整（线下支付一行: CSS 调试）
+ # Done - 电话预约确认页面调整（线下支付一行: CSS 调试）
  # 网站架构设计2.0 (移动化支持，天天动深度集成，独立短信/邮件收发模块)
 
 == June ==
@@ -13,7 +13,7 @@
 = 06/25 =
  # P2. encrypt sensitive/credential data
  # Done - 忘记密码消息添加邮箱后缀
- # 集成各种排班规则
+ # Partially done- 集成各种排班规则
  # 切换至MySQL数据库
 
 = 06/20 =
