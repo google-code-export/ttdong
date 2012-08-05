@@ -13,7 +13,7 @@
 = 06/25 =
  # P2. encrypt sensitive/credential data
  # Done - 忘记密码消息添加邮箱后缀
- # Partially done- 集成各种排班规则
+ # Done - 集成各种排班规则
  # Done - 切换至MySQL数据库
 
 = 06/20 =
