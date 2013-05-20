@@ -21,6 +21,6 @@ customer meeting minutes:
  # 无需手术排班
  # 导出文件用以发邮件
 
-===initial info import?(need xsl preparation)===
+===Initial info import?(need xsl preparation)===
 
 ===中心提供：咨询平台安排，分成， 短信平台预算，慈善内容， 交通信息，护理家园联接， 服务器 。===
