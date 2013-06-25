@@ -24,4 +24,4 @@ customer meeting minutes:
 
 ===Initial info import?(need xsl preparation)===
 
-===中心提供：咨询平台安排，分成， 短信平台预算，慈善内容， 交通信息，护理家园联接， 服务器 。===
+===中心提供：咨询平台安排，分成， 短信平台预算， 交通信息，护理家园,慈善联接， 服务器 。===
