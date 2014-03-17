@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+03/17:
+  * 注册 *移动* _账号_，整合短信平台
+  * review sms list and add sms to admin when payment done
+  * admin phone configurable in resouce boundle(13918382735)
