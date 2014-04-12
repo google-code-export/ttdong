@@ -7,6 +7,15 @@ Weekly meeting notes.
 
 = Details =
 
+04/12:
+  * Umeeting contract, 移动follow up
+  * review sms  format to be <70 charactors
+  * ttdong search brocken
+  * seeeye follow up
+  * ppt and 广告 outsourcing
+  * SEO action list.(外连手段：)
+  
+
 03/17:
   * 注册 *移动* _账号_，整合短信平台
   * review sms list and add sms to admin when payment done
