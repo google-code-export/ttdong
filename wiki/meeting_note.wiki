@@ -10,7 +10,7 @@ Weekly meeting notes.
 04/12:
   * Umeeting contract, 移动follow up
   * review sms  format to be <70 charactors
-  * ttdong search brocken: fixed
+  * ttdong search brocken: *fixed*
   * seeeye follow up: ??
   * ppt and 广告 outsourcing
   * SEO action list.(外连手段：友情链接+？)
