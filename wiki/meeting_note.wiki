@@ -16,6 +16,7 @@ Weekly meeting notes.
   * SEO action list.(外连手段：友情链接+？)
   * 微平台review
   * 骨科/妇产科/儿科 followup
+  * mobile performance review: initial only load 5 doctors, scroll/movedown mechanism
 
 03/17:
   * 注册 *移动* _账号_，整合短信平台
