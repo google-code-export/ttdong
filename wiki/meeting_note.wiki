@@ -9,8 +9,10 @@ Weekly meeting notes.
 
 04/12:
   * Umeeting contract, 移动follow up
-  * review sms  format to be <70 charactors: fixed 门诊预约
+  * review sms  format to be <70 charactors: fixed 门诊预约,电话咨询
   * ttdong search brocken: *fixed*
+  * kidheart icp备案号？？？？- John
+  * mobile kidheart GUI integration????-emac
   * seeeye follow up: ??
   * ppt and 广告 outsourcing
   * SEO action list.(外连手段：友情链接+？)
