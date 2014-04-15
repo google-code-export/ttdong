@@ -15,7 +15,7 @@ Weekly meeting notes.
   * mobile kidheart GUI integration????-emac
   * seeeye follow up: ??
   * ppt and 广告 outsourcing
-  * SEO action list.(外连手段：友情链接+？)
+  * SEO action list.(外连手段：友情链接+？),关键词？？？
   * 微平台review
   * 骨科/妇产科/儿科 followup
   * mobile performance review: initial only load 5 doctors, scroll/movedown mechanism
