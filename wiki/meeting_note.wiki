@@ -11,15 +11,15 @@ Weekly meeting notes.
   * Umeeting contract-shutdown for sms,    移动follow up-next month
   * review sms  format to be <70 charactors: fixed 门诊预约,电话咨询
   * kidheart icp备案号 fixed
-  * mobile kidheart GUI integration????-emac
-  * mobile performance review: ???
+  * mobile kidheart GUI integration????-emac, mobile server
+  * mobile performance review: ?
   * seeeye follow up: - xiaodong will check for it. open new site possible.
   * ppt and 广告 outsourcing-John:http://www.52hibuy.com/;http://www.viacreative.cn/ibm-huang/
-  * SEO action list.(：友情链接+？),关键词？？？
+  * SEO action list.(：友情链接+？),关键词？
     action item: mail list?
     ttdong.com.cn: SEO 
   * 外连手段???????
-  * 骨科/妇产科/儿科 followup
+  * 骨科/妇产科/儿科 followup??????
   * 微信公众平台： wifi
 
 
